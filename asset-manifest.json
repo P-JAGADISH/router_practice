@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/P-JAGADISH/router_practice/static/css/main.e6c13ad2.css",
-    "main.js": "/P-JAGADISH/router_practice/static/js/main.07ecd79e.js",
-    "index.html": "/P-JAGADISH/router_practice/index.html",
-    "main.e6c13ad2.css.map": "/P-JAGADISH/router_practice/static/css/main.e6c13ad2.css.map",
-    "main.07ecd79e.js.map": "/P-JAGADISH/router_practice/static/js/main.07ecd79e.js.map"
+    "main.css": "/router_practice/static/css/main.e6c13ad2.css",
+    "main.js": "/router_practice/static/js/main.07ecd79e.js",
+    "index.html": "/router_practice/index.html",
+    "main.e6c13ad2.css.map": "/router_practice/static/css/main.e6c13ad2.css.map",
+    "main.07ecd79e.js.map": "/router_practice/static/js/main.07ecd79e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
